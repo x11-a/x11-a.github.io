@@ -18,7 +18,7 @@ date: 2026-11-01T12:00:00+08:00
 
 ## 找到我
 
-- GitHub：[你的 GitHub 主页](https://github.com/你的用户名)
+- GitHub：[@x11-a 的 GitHub](https://github.com/x11-a)
 - Email：你的邮箱@example.com
 
 > 这里的联系方式还是占位内容，记得替换成自己的。
