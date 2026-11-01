@@ -1,12 +1,8 @@
-- name: D-Sketon
-  url: https://d-sketon.github.io/
-  desc: Hexo 建站
-  image: https://d-sketon.github.io/avatar/avatar.webp
-  badge: Hexo
-  remark: 一个可爱的 Hexo 主题
-- name: D-Sketon
-  url: https://d-sketon.github.io/astro-theme-reimu/
-  desc: Astro 建站
-  image: https://d-sketon.github.io/avatar/avatar.webp
-  badge: Astro
-  remark: 一个可爱的 Astro 主题
+# 友链列表:以后有朋友的博客,按下面的格式往里加,保存推送后自动出现在"小伙伴们"里
+# - name: 对方博客名字
+#   url: 对方博客网址
+#   desc: 一句话描述
+#   image: 对方头像/图标图片地址
+#   badge: 小标签(可选,比如 Hexo)
+#   remark: 备注(可选)
+[]
