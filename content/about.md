@@ -21,4 +21,3 @@ date: 2026-11-01T12:00:00+08:00
 - GitHub：[@x11-a 的 GitHub](https://github.com/x11-a)
 - Email：3133462463@qq.com
 
-> 这里的联系方式还是占位内容，记得替换成自己的。
