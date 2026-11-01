@@ -82,7 +82,7 @@
   {{- else if and .Params.banner (not (strings.HasPrefix .Params.banner "rgb")) -}}
     {{- $ogImage = .Params.banner | absURL -}}
   {{- else -}}
-    {{- $ogImage = .Site.Params.banner | absURL -}}
+    {{- $ogImage = .Site.Params.cover | default .Site.Params.banner | absURL -}}
   {{- end -}}
   <meta property="og:type" content="website" />
   <meta property="og:title" content="{{ $title | safeHTML }}" />
