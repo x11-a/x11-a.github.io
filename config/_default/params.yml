@@ -112,7 +112,7 @@ footer:
   since: 2020 # 2020-current year
   powered: true
   count: true
-  busuanzi: true
+  busuanzi: false
   icon:
     url: "../images/taichi.png" # this path is relative to the css/main.css, so it needs to go up one level to reach the images folder
     rotate: true
@@ -664,12 +664,12 @@ injector:
 
 # Experimental, may have a lot of bugs, open with caution!
 pjax:
-  enable: false
+  enable: true
 
 # Experimental
 # https://github.com/GoogleChromeLabs/quicklink
 quicklink:
-  enable: false
+  enable: true
   # The `requestIdleCallback` timeout, in milliseconds.
   timeout: 3000
   # Whether or not the URLs within the options.el container should be treated as high priority.
