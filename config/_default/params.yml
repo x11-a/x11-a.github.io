@@ -656,9 +656,9 @@ home_categories:
 # Make sure your code snippet is safeHTML
 injector:
   head_begin: # Inject code snippet right after <head>
-  head_end: '<script src="https://fastly.jsdelivr.net/npm/lenis@1.1.18/dist/lenis.min.js"></script><link rel="stylesheet" href="/css/cursor.css?v=2" />'
+  head_end: '<link rel="stylesheet" href="/css/cursor.css?v=2" />'
   body_begin: # Inject code snippet right after <body>
-  body_end: '<script>if(window.Lenis){var l=new Lenis({duration:1.1});function raf(t){l.raf(t);requestAnimationFrame(raf)}requestAnimationFrame(raf)}</script>'
+  body_end:
   sidebar_begin: # Inject code snippet right after <aside>
   sidebar_end: # Inject code snippet right before </aside>
 
