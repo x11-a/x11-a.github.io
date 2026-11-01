@@ -4,7 +4,6 @@ description: 我的第一篇博客
 date: 2026-11-01T12:00:00+08:00
 lastmod: 2026-11-01T12:00:00+08:00
 tags:
-  - 日常
   - 公告
 categories:
   - 公告
