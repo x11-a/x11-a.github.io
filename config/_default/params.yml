@@ -656,7 +656,7 @@ home_categories:
 # Make sure your code snippet is safeHTML
 injector:
   head_begin: # Inject code snippet right after <head>
-  head_end: '<link rel="stylesheet" href="/css/cursor.css?v=2" />'
+  head_end: '<link rel="stylesheet" href="/css/cursor.css?v=3" />'
   body_begin: # Inject code snippet right after <body>
   body_end:
   sidebar_begin: # Inject code snippet right after <aside>
