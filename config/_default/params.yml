@@ -30,7 +30,7 @@ monthFormat: "2006-01"
 dateFormat: "2006-01-02"
 timeFormat: "2006-01-02 15:04:05"
 
-author: 博主
+author: "11"
 email: xxx@example.com
 description: "少女祈祷中..."
 # subtitle: "少女祈祷中..."
@@ -71,7 +71,7 @@ banner_srcset:
     - src: "images/banner.webp"
       media: "(min-width: 800px)"
 
-avatar: "avatar/avatar.png"
+avatar: "avatar/avatar.jpg"
 
 # Control the display of the post cover
 # If not set, the banner image will be displayed by default
