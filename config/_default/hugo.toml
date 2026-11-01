@@ -1,0 +1,19 @@
+relativeURLs = true
+
+baseURL = "https://x11-a.github.io/"
+title = "11のlife"
+languageCode = "zh-CN"
+defaultContentLanguage = "zh-cn"
+hasCJKLanguage = true
+theme = "reimu"
+
+[pagination]
+  pagerSize = 5
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+  [markup.highlight]
+    lineNos = true
+    style = "monokai"
